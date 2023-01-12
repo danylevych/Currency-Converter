@@ -1,0 +1,8 @@
+If you would like to run this application into your PC
+YOU MUST:
+	1. Download this repository: https://github.com/nlohmann/json
+	2. Add "include" folder from repository to this project.
+		For this:
+			Open Propertis for the project. Select C/C++,
+			and add "include" to Additional Include Directories.
+	3. Wow, now you can run this application.
